@@ -1,0 +1,14 @@
+layout_spectrum: 0.9640172
+color:
+  saturation: 0.8759398
+  lightness: 0.2744361
+  brandStrength: 0.2518797
+  brandColors:
+    - '#FFFFFF'
+    - '#1E1F23'
+    - '#CECECE'
+    - '#664A3F'
+    - '#8F8882'
+  rhythmicContrast: 0.5204082
+typography_spectrum: 0.5139635
+name: xavll
